@@ -2,7 +2,7 @@
 
 Project Name - "Frosting palace”
 
-Batch - Weekday - Group 1.2 -  – White Walkers
+Batch - SLIIT Malabe Weekday - Group 1.2   – White Walkers
 
 Group Leader - IT20133122 - Mr. Ashen Eranda Wijenayake (ashen910)
 
