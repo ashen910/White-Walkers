@@ -6,7 +6,7 @@ Batch - SLIIT Malabe Weekday - Group 1.2   – White Walkers
 
 Group Leader - IT20133122 - Mr. Ashen Eranda Wijenayake (ashen910)
 
-Member 2 - IT20138868 - Ms. Vishmi Yashodara Ekanayake (vishyash)
+Member 2 - IT20138868- Ms. Vishmi Yashodara Ekanayake (vishyash)
 
 Member 3 - IT20135966 - Ms. Pramoda Piyumali Gunasekara (pramoda99)
 
