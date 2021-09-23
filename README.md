@@ -37,7 +37,7 @@
 <h2>Contributors</h2>
 <h4>Malabe Weekday Group 1.2  ->   White-Walkers</h4>
 
-- IT
+- IT20133122 - Wijenayake R.A.E - (ashen910)
 - IT20138868 - Ekanayake E.M.V.Y. - (vishyash)
 - IT20135966  -  Gunasekara A.M.P.P  -  (pramoda99)
 - IT20139544 - Kapukotuwa S.A.A.H - (Anjalee1999)
