@@ -15,6 +15,7 @@ public class BillActivity extends AppCompatActivity {
     private TextView result;
     private Button move1;
 
+    //
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
