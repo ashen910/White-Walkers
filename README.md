@@ -20,8 +20,6 @@
   - Android Studio
    
       <img src="https://user-images.githubusercontent.com/87439553/134557654-d93ed0c5-e085-4d57-8e5a-b563738f284e.png" width="100" height="100"/>
-
- 
   
   - Java
    
@@ -32,7 +30,6 @@
   - Firebase
   
      <img src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg"        width="100" height="100"/>
-
 
 <h2>Contributors</h2>
 <h4>Malabe Weekday Group 1.2  ->   White-Walkers</h4>
