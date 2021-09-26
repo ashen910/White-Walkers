@@ -8,7 +8,9 @@
 </p>
 
 <p>
+  
   This is a project done for the Mobile Application Development module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology.
+  
   </p>
   
   <h2>About our project</h2>
