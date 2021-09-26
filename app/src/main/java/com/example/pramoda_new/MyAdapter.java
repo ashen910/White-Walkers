@@ -97,6 +97,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             time = itemView.findViewById(R.id.time_text);
         }
     }
+    
 }
 
 
