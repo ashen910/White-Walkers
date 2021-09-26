@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87439553/134556118-98c94d81-e1b6-4906-a5fc-49c3a2a258a4.jpeg" width="350" height="150"/>
 </p>
-
 <p>
   
   This is a project done for the Mobile Application Development module of BSc.(Hons.) Degree in Information Technology in Sri Lanka Institute of Information Technology.
@@ -15,7 +14,6 @@
   
   <h2>About our project</h2>
   Frosting palace is a mobile application designed to order cakes directly from the shop to the destination. Customers will be able to place the order conveniently using the application.
-  
   
   <h2>Tools & Technologies</h2>
   
