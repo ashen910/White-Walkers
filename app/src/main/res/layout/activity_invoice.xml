@@ -32,7 +32,6 @@
         android:fontFamily="@font/actor"
         android:text="Contact us :- 011-3254296"
         android:textColor="@android:color/background_light"
-
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.373"
