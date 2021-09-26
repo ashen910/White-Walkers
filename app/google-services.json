@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271473277353",
+    "project_id": "crud-app-34fdc",
+    "storage_bucket": "crud-app-34fdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271473277353:android:c4b84e854421670c946cb8",
+        "android_client_info": {
+          "package_name": "com.example.pramoda_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271473277353-h6ag5257sl568s25jtrdhiocgpks0cs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfD7xjh-FgR6B38tjgPNlo8NBM188lbMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271473277353-h6ag5257sl568s25jtrdhiocgpks0cs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
